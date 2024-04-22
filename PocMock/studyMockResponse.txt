@@ -1,0 +1,1530 @@
+﻿[
+  {
+    "00100020": { "vr": "LO", "Value": ["M1"] },
+    "00100010": { "vr": "PN", "Value": [{ "Alphabetic": "M1" }] },
+    "00100030": { "vr": "DA" },
+    "00100040": { "vr": "CS", "Value": ["O"] },
+    "00081030": { "vr": "LO", "Value": ["General Static Scan + CT"] },
+    "00080050": { "vr": "SH" },
+    "0020000D": {
+      "vr": "UI",
+      "Value": ["2.25.232704420736447710317909004159492840763"]
+    },
+    "00080020": { "vr": "DA", "Value": ["20220915"] },
+    "00080030": { "vr": "TM", "Value": ["105557.469"] },
+    "00200010": { "vr": "SH", "Value": ["658"] },
+    "00090010": { "Value": ["dedupped"], "vr": "CS" },
+    "00091011": {
+      "Value": [
+        "c44d2bc6b1afe2cdf57e7e84b37d54f73dd36a10d27723c7baf2a8ce15776d15"
+      ]
+    },
+    "00091012": { "Value": ["study"] },
+    "00080061": { "Value": ["CT", "PT"], "vr": "CS" },
+    "00201208": { "Value": [10163], "vr": "IS" },
+    "00201206": { "Value": [2], "vr": "IS" }
+  },
+  {
+    "00100020": { "vr": "LO", "Value": ["DBT-P00001"] },
+    "00100010": { "vr": "PN", "Value": [{ "Alphabetic": "DBT-P00001" }] },
+    "00100030": { "vr": "DA" },
+    "00100040": { "vr": "CS", "Value": ["F"] },
+    "00120062": { "vr": "CS", "Value": ["YES"] },
+    "00081030": { "vr": "LO", "Value": ["MAMMO SCREENING DIGITAL BILATERAL"] },
+    "00080050": { "vr": "SH" },
+    "0020000D": {
+      "vr": "UI",
+      "Value": [
+        "1.2.826.0.1.3680043.8.498.11387662677066579919319049302075478647"
+      ]
+    },
+    "00080020": { "vr": "DA", "Value": ["20000101"] },
+    "00080030": { "vr": "TM", "Value": ["000000"] },
+    "00200010": { "vr": "SH", "Value": ["DBT-S00597"] },
+    "00090010": { "Value": ["dedupped"], "vr": "CS" },
+    "00091011": {
+      "Value": [
+        "461b24b0492b782b73e2114aeb76745d9e4fc291e68f3048d778c81c25567271"
+      ]
+    },
+    "00091012": { "Value": ["study"] },
+    "00080061": { "Value": ["MG"], "vr": "CS" },
+    "00201208": { "Value": [4], "vr": "IS" },
+    "00201206": { "Value": [4], "vr": "IS" }
+  },
+  {
+    "00100020": { "vr": "LO", "Value": ["ACRIN-NSCLC-FDG-PET-042"] },
+    "00100010": {
+      "vr": "PN",
+      "Value": [{ "Alphabetic": "ACRIN-NSCLC-FDG-PET-042" }]
+    },
+    "00100030": { "vr": "DA" },
+    "00100040": { "vr": "CS", "Value": ["M"] },
+    "00120062": { "vr": "CS", "Value": ["YES"] },
+    "00120064": {
+      "vr": "SQ",
+      "Value": [
+        {
+          "00080100": { "vr": "SH", "Value": ["113100"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": ["Basic Application Confidentiality Profile"]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113101"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Clean Pixel Data Option"] }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113104"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": ["Clean Structured Content Option"]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113105"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Clean Descriptors Option"] }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113107"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": [
+              "Retain Longitudinal Temporal Information Modified Dates Option"
+            ]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113108"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": ["Retain Patient Characteristics Option"]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113109"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Retain Device Identity Option"] }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113111"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Retain Safe Private Option"] }
+        }
+      ]
+    },
+    "00081030": { "vr": "LO", "Value": ["WB PET/CT"] },
+    "00080050": { "vr": "SH" },
+    "0020000D": {
+      "vr": "UI",
+      "Value": [
+        "1.3.6.1.4.1.14519.5.2.1.7009.2403.871108593056125491804754960339"
+      ]
+    },
+    "00080020": { "vr": "DA", "Value": ["19600116"] },
+    "00080030": { "vr": "TM", "Value": ["082433.00"] },
+    "00200010": { "vr": "SH" },
+    "00090010": { "Value": ["dedupped"], "vr": "CS" },
+    "00091011": {
+      "Value": [
+        "59c1251c0933a7c143df34a66f8208fe6510d05cdd6a647699fe4c5e5430496c"
+      ]
+    },
+    "00091012": { "Value": ["study"] },
+    "00080061": { "Value": ["PT", "CT"], "vr": "CS" },
+    "00201208": { "Value": [934], "vr": "IS" },
+    "00201206": { "Value": [4], "vr": "IS" }
+  },
+  {
+    "00100020": { "vr": "LO", "Value": ["ACRIN-NSCLC-FDG-PET-042"] },
+    "00100010": {
+      "vr": "PN",
+      "Value": [{ "Alphabetic": "ACRIN-NSCLC-FDG-PET-042" }]
+    },
+    "00100030": { "vr": "DA" },
+    "00100040": { "vr": "CS", "Value": ["M"] },
+    "00120062": { "vr": "CS", "Value": ["YES"] },
+    "00120064": {
+      "vr": "SQ",
+      "Value": [
+        {
+          "00080100": { "vr": "SH", "Value": ["113100"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": ["Basic Application Confidentiality Profile"]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113101"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Clean Pixel Data Option"] }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113104"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": ["Clean Structured Content Option"]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113105"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Clean Descriptors Option"] }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113107"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": [
+              "Retain Longitudinal Temporal Information Modified Dates Option"
+            ]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113108"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": ["Retain Patient Characteristics Option"]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113109"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Retain Device Identity Option"] }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113111"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Retain Safe Private Option"] }
+        }
+      ]
+    },
+    "00081030": { "vr": "LO", "Value": ["LUNG DELAYS"] },
+    "00080050": { "vr": "SH" },
+    "0020000D": {
+      "vr": "UI",
+      "Value": [
+        "1.3.6.1.4.1.14519.5.2.1.7009.2403.334240657131972136850343327463"
+      ]
+    },
+    "00080020": { "vr": "DA", "Value": ["19600116"] },
+    "00080030": { "vr": "TM", "Value": ["095640"] },
+    "00200010": { "vr": "SH" },
+    "00090010": { "Value": ["dedupped"], "vr": "CS" },
+    "00091011": {
+      "Value": [
+        "3390d0e9f69ae7cda8d5dad46b614340a663aee11cabec752c75c0913a590b0e"
+      ]
+    },
+    "00091012": { "Value": ["study"] },
+    "00080061": { "Value": ["CT", "PT", "SR"], "vr": "CS" },
+    "00201208": { "Value": [408], "vr": "IS" },
+    "00201206": { "Value": [6], "vr": "IS" }
+  },
+  {
+    "00100020": { "vr": "LO", "Value": ["BreastDx-01-0003"] },
+    "00100010": { "vr": "PN", "Value": [{ "Alphabetic": "SIIM^Sally" }] },
+    "00100021": { "vr": "LO" },
+    "00100030": { "vr": "DA" },
+    "00100040": { "vr": "CS", "Value": ["F"] },
+    "00120062": { "vr": "CS", "Value": ["YES"] },
+    "00081030": {
+      "vr": "LO",
+      "Value": ["Digital Diagnostic Mammogram Bilateral"]
+    },
+    "00080050": { "vr": "SH", "Value": ["a278028270041068"] },
+    "0020000D": {
+      "vr": "UI",
+      "Value": [
+        "1.3.6.1.4.1.14519.5.2.1.4792.2001.105216574054253895819671475627"
+      ]
+    },
+    "00080020": { "vr": "DA", "Value": ["20080412"] },
+    "00080030": { "vr": "TM", "Value": ["102542"] },
+    "0032000C": { "vr": "CS" },
+    "00200010": { "vr": "SH" },
+    "00090010": { "Value": ["dedupped"], "vr": "CS" },
+    "00091011": {
+      "Value": [
+        "9ac53a4752fcfa5903324da52b902b18f1dfb6ed18b3ff070445842fdfccf31d"
+      ]
+    },
+    "00091012": { "Value": ["study"] },
+    "00080061": { "Value": ["MG"], "vr": "CS" },
+    "00201208": { "Value": [6], "vr": "IS" },
+    "00201206": { "Value": [6], "vr": "IS" }
+  },
+  {
+    "00100020": { "vr": "LO", "Value": ["NEW_PATIENT_ID"] },
+    "00100010": {
+      "vr": "PN",
+      "Value": [{ "Alphabetic": "CTA Head and Neck" }]
+    },
+    "00100030": { "vr": "DA" },
+    "00100040": { "vr": "CS", "Value": ["F"] },
+    "00120062": { "vr": "CS", "Value": ["YES"] },
+    "00081030": { "vr": "LO", "Value": ["CT NECK SOFT TISSUE  W/ CONTR"] },
+    "00080050": { "vr": "SH" },
+    "0020000D": {
+      "vr": "UI",
+      "Value": ["2.16.840.1.114362.1.11972228.22789312658.616067305.306.2"]
+    },
+    "00080020": { "vr": "DA", "Value": ["20230511"] },
+    "00080030": { "vr": "TM", "Value": ["131411.687000"] },
+    "0032000A": { "vr": "CS", "Value": ["READ"] },
+    "0032000C": { "vr": "CS", "Value": ["LOW"] },
+    "00200010": { "vr": "SH", "Value": ["ANON48576"] },
+    "00090010": { "Value": ["dedupped"], "vr": "CS" },
+    "00091011": {
+      "Value": [
+        "411184fb9fc99dae1a8a2fca10b5fb2171913355b8b804870bca1860cfa706f8"
+      ]
+    },
+    "00091012": { "Value": ["study"] },
+    "00080061": { "Value": ["CT"], "vr": "CS" },
+    "00201208": { "Value": [295], "vr": "IS" },
+    "00201206": { "Value": [1], "vr": "IS" }
+  },
+  {
+    "00100020": { "vr": "LO", "Value": ["PCAMPMRI-00012"] },
+    "00100010": { "vr": "PN", "Value": [{ "Alphabetic": "PCAMPMRI-00012" }] },
+    "00100030": { "vr": "DA" },
+    "00100040": { "vr": "CS", "Value": ["M"] },
+    "00081030": { "vr": "LO", "Value": ["PCAMPMRI"] },
+    "00080050": { "vr": "SH" },
+    "0020000D": {
+      "vr": "UI",
+      "Value": [
+        "1.3.6.1.4.1.14519.5.2.1.3671.4754.298665348758363466150039312520"
+      ]
+    },
+    "00080020": { "vr": "DA", "Value": ["19951215"] },
+    "00080030": { "vr": "TM", "Value": ["131445"] },
+    "00200010": { "vr": "SH" },
+    "00090010": { "Value": ["dedupped"], "vr": "CS" },
+    "00091011": {
+      "Value": [
+        "564793ff3e626c9e5d6496b3193b190f46908b997b40674220310798ebf47287"
+      ]
+    },
+    "00091012": { "Value": ["study"] },
+    "00080061": { "Value": ["SEG", "MR"], "vr": "CS" },
+    "00201208": { "Value": [139], "vr": "IS" },
+    "00201206": { "Value": [7], "vr": "IS" }
+  },
+  {
+    "00100020": { "vr": "LO", "Value": ["PYFSRT01"] },
+    "00100010": { "vr": "PN", "Value": [{ "Alphabetic": "PATIENT^FSRT" }] },
+    "00100030": { "vr": "DA" },
+    "00100040": { "vr": "CS" },
+    "00080050": { "vr": "SH" },
+    "0020000D": {
+      "vr": "UI",
+      "Value": ["1.3.6.1.4.1.5962.99.1.2968617883.1314880426.1493322302363.3.0"]
+    },
+    "00080020": { "vr": "DA", "Value": ["20170411"] },
+    "00080030": { "vr": "TM", "Value": ["141050"] },
+    "00200010": { "vr": "SH", "Value": ["S"] },
+    "00090010": { "Value": ["dedupped"], "vr": "CS" },
+    "00091011": {
+      "Value": [
+        "9395ba42cf45c4216e4a8ee137e7dd07460f2ff83b071219b86ff4f7ffea82db"
+      ]
+    },
+    "00091012": { "Value": ["study"] },
+    "00080061": { "Value": ["CT", "RTSTRUCT"], "vr": "CS" },
+    "00201208": { "Value": [263], "vr": "IS" },
+    "00201206": { "Value": [2], "vr": "IS" }
+  },
+  {
+    "00100020": { "vr": "LO", "Value": ["HCC_004"] },
+    "00100010": { "vr": "PN", "Value": [{ "Alphabetic": "HCC_004" }] },
+    "00100030": { "vr": "DA" },
+    "00100040": { "vr": "CS" },
+    "00120062": { "vr": "CS", "Value": ["YES"] },
+    "00120064": {
+      "vr": "SQ",
+      "Value": [
+        {
+          "00080100": { "vr": "SH", "Value": ["113100"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": ["Basic Application Confidentiality Profile"]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113101"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Clean Pixel Data Option"] }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113104"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": ["Clean Structured Content Option"]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113105"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Clean Descriptors Option"] }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113107"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": [
+              "Retain Longitudinal Temporal Information Modified Dates Option"
+            ]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113108"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": ["Retain Patient Characteristics Option"]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113109"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Retain Device Identity Option"] }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113111"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Retain Safe Private Option"] }
+        }
+      ]
+    },
+    "00081030": { "vr": "LO", "Value": ["LIVER/PELVIS"] },
+    "00080050": { "vr": "SH" },
+    "0020000D": {
+      "vr": "UI",
+      "Value": [
+        "1.3.6.1.4.1.14519.5.2.1.1706.8374.643249677828306008300337414785"
+      ]
+    },
+    "00080020": { "vr": "DA", "Value": ["19971006"] },
+    "00080030": { "vr": "TM" },
+    "00200010": { "vr": "SH" },
+    "00090010": { "Value": ["dedupped"], "vr": "CS" },
+    "00091011": {
+      "Value": [
+        "8fdc8049e6c362f16eb39134845ad75877be700eed5bfe3edb42c84a7a348955"
+      ]
+    },
+    "00091012": { "Value": ["study"] },
+    "00080061": { "Value": ["CT", "SEG"], "vr": "CS" },
+    "00201208": { "Value": [179], "vr": "IS" },
+    "00201206": { "Value": [4], "vr": "IS" }
+  },
+  {
+    "00100020": { "vr": "LO", "Value": ["TCGA-02-0006"] },
+    "00100010": { "vr": "PN", "Value": [{ "Alphabetic": "TCGA-02-0006" }] },
+    "00100030": { "vr": "DA" },
+    "00100040": { "vr": "CS" },
+    "00081030": { "vr": "LO", "Value": ["Histopathology"] },
+    "00080050": { "vr": "SH", "Value": ["TCGA-02-0006"] },
+    "0020000D": {
+      "vr": "UI",
+      "Value": ["2.25.103659964951665749659160840573802789777"]
+    },
+    "00080020": { "vr": "DA", "Value": ["20090120"] },
+    "00080030": { "vr": "TM", "Value": ["163938"] },
+    "00200010": { "vr": "SH", "Value": ["TCGA-02-0006"] },
+    "00090010": { "Value": ["dedupped"], "vr": "CS" },
+    "00091011": {
+      "Value": [
+        "2f37f80f2742a85606671af2e230b206a1e034cb4933448b40020a7ddbe66940"
+      ]
+    },
+    "00091012": { "Value": ["study"] },
+    "00080061": { "Value": ["SM"], "vr": "CS" },
+    "00201208": { "Value": [17], "vr": "IS" },
+    "00201206": { "Value": [4], "vr": "IS" }
+  },
+  {
+    "00100020": { "vr": "LO", "Value": ["C3L-00088"] },
+    "00100010": { "vr": "PN", "Value": [{ "Alphabetic": "C3L-00088" }] },
+    "00100030": { "vr": "DA" },
+    "00100040": { "vr": "CS", "Value": ["M"] },
+    "00081030": { "vr": "LO", "Value": ["Histopathology"] },
+    "00080050": { "vr": "SH", "Value": ["C3L-00088"] },
+    "0020000D": {
+      "vr": "UI",
+      "Value": ["2.25.141277760791347900862109212450152067508"]
+    },
+    "00080020": { "vr": "DA", "Value": ["20160811"] },
+    "00080030": { "vr": "TM", "Value": ["102118"] },
+    "00200010": { "vr": "SH", "Value": ["C3L-00088"] },
+    "00090010": { "Value": ["dedupped"], "vr": "CS" },
+    "00091011": {
+      "Value": [
+        "c0c14e9a96d30e59e546b3f77fbffbc2a2e19220a3f1d35deccd22181983d833"
+      ]
+    },
+    "00091012": { "Value": ["study"] },
+    "00080061": { "Value": ["SM"], "vr": "CS" },
+    "00201208": { "Value": [18], "vr": "IS" },
+    "00201206": { "Value": [3], "vr": "IS" }
+  },
+  {
+    "00100020": { "vr": "LO", "Value": ["NCT00047385"] },
+    "00100010": { "vr": "PN", "Value": [{ "Alphabetic": "NCT00047385" }] },
+    "00100030": { "vr": "DA" },
+    "00100040": { "vr": "CS", "Value": ["M"] },
+    "00081030": { "vr": "LO", "Value": ["Histopathology"] },
+    "00080050": { "vr": "SH", "Value": ["100292"] },
+    "0020000D": {
+      "vr": "UI",
+      "Value": ["2.25.275741864483510678566144889372061815320"]
+    },
+    "00080020": { "vr": "DA", "Value": ["20090702"] },
+    "00080030": { "vr": "TM", "Value": ["161206"] },
+    "00200010": { "vr": "SH", "Value": ["100292"] },
+    "00090010": { "Value": ["dedupped"], "vr": "CS" },
+    "00091011": {
+      "Value": [
+        "51a2ee6fcd1960e3d7663b3cad6a3be46128eb38a548ce3cf476fc95a7030f5d"
+      ]
+    },
+    "00091012": { "Value": ["study"] },
+    "00080061": { "Value": ["SM"], "vr": "CS" },
+    "00201208": { "Value": [18], "vr": "IS" },
+    "00201206": { "Value": [3], "vr": "IS" }
+  },
+  {
+    "00100020": { "vr": "LO", "Value": ["TCGA-QQ-A8VH"] },
+    "00100010": { "vr": "PN", "Value": [{ "Alphabetic": "TCGA-QQ-A8VH" }] },
+    "00100030": { "vr": "DA" },
+    "00100040": { "vr": "CS", "Value": ["F"] },
+    "00120062": { "vr": "CS", "Value": ["YES"] },
+    "00120064": {
+      "vr": "SQ",
+      "Value": [
+        {
+          "00080100": { "vr": "SH", "Value": ["113100"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": ["Basic Application Confidentiality Profile"]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113101"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Clean Pixel Data Option"] }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113105"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Clean Descriptors Option"] }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113107"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": ["Retain Longitudinal With Modified Dates Option"]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113108"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": ["Retain Patient Characteristics Option"]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113109"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Retain Device Identity Option"] }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113111"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Retain Safe Private Option"] }
+        }
+      ]
+    },
+    "00081030": { "vr": "LO", "Value": ["MRI THORACIC W/WO CONTRAST"] },
+    "00080050": { "vr": "SH", "Value": ["1126068487756231"] },
+    "0020000D": {
+      "vr": "UI",
+      "Value": [
+        "1.3.6.1.4.1.14519.5.2.1.3023.4024.215308722288168917637555384485"
+      ]
+    },
+    "00080020": { "vr": "DA", "Value": ["20020315"] },
+    "00080030": { "vr": "TM", "Value": ["164841.000000"] },
+    "00200010": { "vr": "SH" },
+    "00090010": { "Value": ["dedupped"], "vr": "CS" },
+    "00091011": {
+      "Value": [
+        "05b5579f6eee4935e11f3e95647a24faa7a36ace0534103055886b5e131ed33c"
+      ]
+    },
+    "00091012": { "Value": ["study"] },
+    "00080061": { "Value": ["MR"], "vr": "CS" },
+    "00201208": { "Value": [214], "vr": "IS" },
+    "00201206": { "Value": [8], "vr": "IS" }
+  },
+  {
+    "00100020": { "vr": "LO", "Value": ["TCGA-09-1667"] },
+    "00100010": { "vr": "PN", "Value": [{ "Alphabetic": "TCGA-09-1667" }] },
+    "00100030": { "vr": "DA" },
+    "00100040": { "vr": "CS", "Value": ["F"] },
+    "00120062": { "vr": "CS", "Value": ["YES"] },
+    "00120064": {
+      "vr": "SQ",
+      "Value": [
+        {
+          "00080100": { "vr": "SH", "Value": ["113100"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": ["Basic Application Confidentiality Profile"]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113101"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Clean Pixel Data Option"] }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113105"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Clean Descriptors Option"] }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113107"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": ["Retain Longitudinal With Modified Dates Option"]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113108"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": ["Retain Patient Characteristics Option"]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113109"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Retain Device Identity Option"] }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113111"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Retain Safe Private Option"] }
+        }
+      ]
+    },
+    "00081030": { "vr": "LO", "Value": ["CT ABD PELV EN"] },
+    "00080050": { "vr": "SH", "Value": ["3377950429550159"] },
+    "0020000D": {
+      "vr": "UI",
+      "Value": [
+        "1.3.6.1.4.1.14519.5.2.1.7695.4007.324475281161490036195179843543"
+      ]
+    },
+    "00080020": { "vr": "DA", "Value": ["19950403"] },
+    "00080030": { "vr": "TM", "Value": ["105214.000000"] },
+    "0032000A": { "vr": "CS", "Value": ["READ"] },
+    "0032000C": { "vr": "CS", "Value": ["LOW"] },
+    "00200010": { "vr": "SH" },
+    "00090010": { "Value": ["dedupped"], "vr": "CS" },
+    "00091011": {
+      "Value": [
+        "a9f87a4d2e2c90e6733e7bee2e815f5db88467cdfa1e343f7e45d79a108089dd"
+      ]
+    },
+    "00091012": { "Value": ["study"] },
+    "00080061": { "Value": ["CT", "SR"], "vr": "CS" },
+    "00201208": { "Value": [77], "vr": "IS" },
+    "00201206": { "Value": [2], "vr": "IS" }
+  },
+  {
+    "00100020": { "vr": "LO", "Value": ["StageII-Colorectal-CT-005"] },
+    "00100010": {
+      "vr": "PN",
+      "Value": [{ "Alphabetic": "StageII-Colorectal-CT-005" }]
+    },
+    "00100030": { "vr": "DA" },
+    "00100040": { "vr": "CS", "Value": ["M"] },
+    "00120062": { "vr": "CS", "Value": ["YES"] },
+    "00120064": {
+      "vr": "SQ",
+      "Value": [
+        {
+          "00080100": { "vr": "SH", "Value": ["113100"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": ["Basic Application Confidentiality Profile"]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113101"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Clean Pixel Data Option"] }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113104"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": ["Clean Structured Content Option"]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113105"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Clean Descriptors Option"] }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113107"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": [
+              "Retain Longitudinal Temporal Information Modified Dates Option"
+            ]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113108"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": ["Retain Patient Characteristics Option"]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113109"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Retain Device Identity Option"] }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113111"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Retain Safe Private Option"] }
+        }
+      ]
+    },
+    "00081030": { "vr": "LO", "Value": ["Chest CT Routine"] },
+    "00080050": { "vr": "SH" },
+    "0020000D": {
+      "vr": "UI",
+      "Value": [
+        "1.3.6.1.4.1.14519.5.2.1.256467663913010332776401703474716742458"
+      ]
+    },
+    "00080020": { "vr": "DA", "Value": ["20040106"] },
+    "00080030": { "vr": "TM", "Value": ["103535.218000"] },
+    "00200010": { "vr": "SH" },
+    "00090010": { "Value": ["dedupped"], "vr": "CS" },
+    "00091011": {
+      "Value": [
+        "1e71af234f5a7001bbd69dd82359fa4ef421e6d4c3d50c26fe9c0120f67e972d"
+      ]
+    },
+    "00091012": { "Value": ["study"] },
+    "00080061": { "Value": ["CT", "SEG"], "vr": "CS" },
+    "00201208": { "Value": [53], "vr": "IS" },
+    "00201206": { "Value": [2], "vr": "IS" }
+  },
+  {
+    "00100020": { "vr": "LO", "Value": ["202009231"] },
+    "00100010": { "vr": "PN", "Value": [{ "Alphabetic": "Water Phantom" }] },
+    "00100021": { "vr": "LO", "Value": ["PHANTOM"] },
+    "00100030": { "vr": "DA" },
+    "00100040": { "vr": "CS" },
+    "00081030": { "vr": "LO", "Value": ["Uniformity"] },
+    "00080050": { "vr": "SH" },
+    "0020000D": {
+      "vr": "UI",
+      "Value": ["1.2.840.113619.2.290.3.3767434740.226.1600859119.501"]
+    },
+    "00080020": { "vr": "DA", "Value": ["20200923"] },
+    "00080030": { "vr": "TM", "Value": ["111116"] },
+    "00200010": { "vr": "SH", "Value": ["3782"] },
+    "00090010": { "Value": ["dedupped"], "vr": "CS" },
+    "00091011": {
+      "Value": [
+        "819fb1b70a4e6263eac6a423cdfccf6da46af0d17de8152ba3081b970f28438e"
+      ]
+    },
+    "00091012": { "Value": ["study"] },
+    "00080061": { "Value": ["CT", "PT", "RTSTRUCT"], "vr": "CS" },
+    "00201208": { "Value": [218], "vr": "IS" },
+    "00201206": { "Value": [5], "vr": "IS" }
+  },
+  {
+    "00100020": { "vr": "LO", "Value": ["COVID-19-NY-SBU"] },
+    "00100010": { "vr": "PN", "Value": [{ "Alphabetic": "COVID-19-NY-SBU" }] },
+    "00100030": { "vr": "DA" },
+    "00100040": { "vr": "CS", "Value": ["M"] },
+    "00120062": { "vr": "CS", "Value": ["YES"] },
+    "00120064": {
+      "vr": "SQ",
+      "Value": [
+        {
+          "00080100": { "vr": "SH", "Value": ["113100"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": ["Basic Application Confidentiality Profile"]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113101"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Clean Pixel Data Option"] }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113104"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": ["Clean Structured Content Option"]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113105"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Clean Descriptors Option"] }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113107"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": [
+              "Retain Longitudinal Temporal Information Modified Dates Option"
+            ]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113108"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": ["Retain Patient Characteristics Option"]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113109"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Retain Device Identity Option"] }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113111"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Retain Safe Private Option"] }
+        }
+      ]
+    },
+    "00081030": { "vr": "LO", "Value": ["MRI ABD WWO IV CONT"] },
+    "00080050": { "vr": "SH" },
+    "0020000D": {
+      "vr": "UI",
+      "Value": [
+        "1.3.6.1.4.1.14519.5.2.1.99.1071.21255249241959598781018667405790"
+      ]
+    },
+    "00080020": { "vr": "DA", "Value": ["19001128"] },
+    "00080030": { "vr": "TM", "Value": ["164507.336000"] },
+    "00200010": { "vr": "SH" },
+    "00090010": { "Value": ["dedupped"], "vr": "CS" },
+    "00091011": {
+      "Value": [
+        "6c6b35c148beb2eaeb9d4bf8f13c6d87143372e09987f7303a68a64d6ecb4ab8"
+      ]
+    },
+    "00091012": { "Value": ["study"] },
+    "00080061": { "Value": ["MR"], "vr": "CS" },
+    "00201208": { "Value": [1054], "vr": "IS" },
+    "00201206": { "Value": [15], "vr": "IS" }
+  },
+  {
+    "00100020": { "vr": "LO", "Value": ["COVID-19-NY-SBU"] },
+    "00100010": { "vr": "PN", "Value": [{ "Alphabetic": "COVID-19-NY-SBU" }] },
+    "00100030": { "vr": "DA" },
+    "00100040": { "vr": "CS", "Value": ["M"] },
+    "00120062": { "vr": "CS", "Value": ["YES"] },
+    "00120064": {
+      "vr": "SQ",
+      "Value": [
+        {
+          "00080100": { "vr": "SH", "Value": ["113100"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": ["Basic Application Confidentiality Profile"]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113101"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Clean Pixel Data Option"] }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113104"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": ["Clean Structured Content Option"]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113105"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Clean Descriptors Option"] }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113107"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": [
+              "Retain Longitudinal Temporal Information Modified Dates Option"
+            ]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113108"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": ["Retain Patient Characteristics Option"]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113109"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Retain Device Identity Option"] }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113111"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Retain Safe Private Option"] }
+        }
+      ]
+    },
+    "00081030": {
+      "vr": "LO",
+      "Value": ["CT ABD PELVIS(WITH CHEST IMAGES) W IV CON"]
+    },
+    "00080050": { "vr": "SH" },
+    "0020000D": {
+      "vr": "UI",
+      "Value": [
+        "1.3.6.1.4.1.14519.5.2.1.99.1071.19949805185931008572499729370934"
+      ]
+    },
+    "00080020": { "vr": "DA", "Value": ["19001209"] },
+    "00080030": { "vr": "TM", "Value": ["105839"] },
+    "00200010": { "vr": "SH" },
+    "00090010": { "Value": ["dedupped"], "vr": "CS" },
+    "00091011": {
+      "Value": [
+        "c33c0420a1d81928590e9c0c3df12456f22bb8ba3a0ca384d267035ddaa868eb"
+      ]
+    },
+    "00091012": { "Value": ["study"] },
+    "00080061": { "Value": ["CT"], "vr": "CS" },
+    "00201208": { "Value": [477], "vr": "IS" },
+    "00201206": { "Value": [4], "vr": "IS" }
+  },
+  {
+    "00100020": { "vr": "LO", "Value": ["COVID-19-NY-SBU"] },
+    "00100010": { "vr": "PN", "Value": [{ "Alphabetic": "COVID-19-NY-SBU" }] },
+    "00100030": { "vr": "DA" },
+    "00100040": { "vr": "CS", "Value": ["M"] },
+    "00120062": { "vr": "CS", "Value": ["YES"] },
+    "00120064": {
+      "vr": "SQ",
+      "Value": [
+        {
+          "00080100": { "vr": "SH", "Value": ["113100"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": ["Basic Application Confidentiality Profile"]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113101"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Clean Pixel Data Option"] }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113104"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": ["Clean Structured Content Option"]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113105"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Clean Descriptors Option"] }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113107"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": [
+              "Retain Longitudinal Temporal Information Modified Dates Option"
+            ]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113108"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": ["Retain Patient Characteristics Option"]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113109"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Retain Device Identity Option"] }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113111"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Retain Safe Private Option"] }
+        }
+      ]
+    },
+    "00081030": { "vr": "LO", "Value": ["CT CHEST WITH IV CONT"] },
+    "00080050": { "vr": "SH" },
+    "0020000D": {
+      "vr": "UI",
+      "Value": [
+        "1.3.6.1.4.1.14519.5.2.1.99.1071.26968527900428638961173806140069"
+      ]
+    },
+    "00080020": { "vr": "DA", "Value": ["19001130"] },
+    "00080030": { "vr": "TM", "Value": ["223243"] },
+    "00200010": { "vr": "SH" },
+    "00090010": { "Value": ["dedupped"], "vr": "CS" },
+    "00091011": {
+      "Value": [
+        "0af24f2afc0223253ab12fa349ebfafd98421d649950cbc93c2ee43faa2eb32c"
+      ]
+    },
+    "00091012": { "Value": ["study"] },
+    "00080061": { "Value": ["CT"], "vr": "CS" },
+    "00201208": { "Value": [642], "vr": "IS" },
+    "00201206": { "Value": [6], "vr": "IS" }
+  },
+  {
+    "00100020": { "vr": "LO", "Value": ["COVID-19-NY-SBU"] },
+    "00100010": { "vr": "PN", "Value": [{ "Alphabetic": "COVID-19-NY-SBU" }] },
+    "00100030": { "vr": "DA" },
+    "00100040": { "vr": "CS", "Value": ["M"] },
+    "00120062": { "vr": "CS", "Value": ["YES"] },
+    "00120064": {
+      "vr": "SQ",
+      "Value": [
+        {
+          "00080100": { "vr": "SH", "Value": ["113100"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": ["Basic Application Confidentiality Profile"]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113101"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Clean Pixel Data Option"] }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113104"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": ["Clean Structured Content Option"]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113105"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Clean Descriptors Option"] }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113107"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": [
+              "Retain Longitudinal Temporal Information Modified Dates Option"
+            ]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113108"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": ["Retain Patient Characteristics Option"]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113109"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Retain Device Identity Option"] }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113111"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Retain Safe Private Option"] }
+        }
+      ]
+    },
+    "00081030": { "vr": "LO", "Value": ["CT ABD AND PELVIS WITH IV CONT"] },
+    "00080050": { "vr": "SH" },
+    "0020000D": {
+      "vr": "UI",
+      "Value": [
+        "1.3.6.1.4.1.14519.5.2.1.99.1071.30380506825315291544089774688247"
+      ]
+    },
+    "00080020": { "vr": "DA", "Value": ["19001127"] },
+    "00080030": { "vr": "TM", "Value": ["161015.000"] },
+    "00200010": { "vr": "SH" },
+    "00090010": { "Value": ["dedupped"], "vr": "CS" },
+    "00091011": {
+      "Value": [
+        "e55e06e868694765d905c73e0494b175566ed6bea97c0a7f411a3491c4fe6c93"
+      ]
+    },
+    "00091012": { "Value": ["study"] },
+    "00080061": { "Value": ["CT"], "vr": "CS" },
+    "00201208": { "Value": [364], "vr": "IS" },
+    "00201206": { "Value": [4], "vr": "IS" }
+  },
+  {
+    "00100020": { "vr": "LO", "Value": ["COVID-19-NY-SBU"] },
+    "00100010": { "vr": "PN", "Value": [{ "Alphabetic": "COVID-19-NY-SBU" }] },
+    "00100030": { "vr": "DA" },
+    "00100040": { "vr": "CS", "Value": ["M"] },
+    "00120062": { "vr": "CS", "Value": ["YES"] },
+    "00120064": {
+      "vr": "SQ",
+      "Value": [
+        {
+          "00080100": { "vr": "SH", "Value": ["113100"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": ["Basic Application Confidentiality Profile"]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113101"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Clean Pixel Data Option"] }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113104"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": ["Clean Structured Content Option"]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113105"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Clean Descriptors Option"] }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113107"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": [
+              "Retain Longitudinal Temporal Information Modified Dates Option"
+            ]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113108"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": ["Retain Patient Characteristics Option"]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113109"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Retain Device Identity Option"] }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113111"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Retain Safe Private Option"] }
+        }
+      ]
+    },
+    "00081030": { "vr": "LO", "Value": ["CHEST AP VIEWONLY"] },
+    "00080050": { "vr": "SH" },
+    "0020000D": {
+      "vr": "UI",
+      "Value": [
+        "1.3.6.1.4.1.14519.5.2.1.99.1071.55651399101931177647030363790032"
+      ]
+    },
+    "00080020": { "vr": "DA", "Value": ["19001231"] },
+    "00080030": { "vr": "TM", "Value": ["115653.173"] },
+    "00200010": { "vr": "SH" },
+    "00090010": { "Value": ["dedupped"], "vr": "CS" },
+    "00091011": {
+      "Value": [
+        "ddd5c8d924013d516c2b16367b432b61f310968da92902439ed6608b8e441463"
+      ]
+    },
+    "00091012": { "Value": ["study"] },
+    "00080061": { "Value": ["CR"], "vr": "CS" },
+    "00201208": { "Value": [2], "vr": "IS" },
+    "00201206": { "Value": [2], "vr": "IS" }
+  },
+  {
+    "00100020": { "vr": "LO" },
+    "00100010": { "vr": "PN" },
+    "00100030": { "vr": "DA" },
+    "00100040": { "vr": "CS" },
+    "00080050": { "vr": "SH" },
+    "0020000D": {
+      "vr": "UI",
+      "Value": ["2.25.317377619501274872606137091638706705333"]
+    },
+    "00080020": { "vr": "DA" },
+    "00080030": { "vr": "TM" },
+    "00200010": { "vr": "SH" },
+    "00090010": { "Value": ["dedupped"], "vr": "CS" },
+    "00091011": {
+      "Value": [
+        "9fd4af692faef45db3ce6263b831502e0900bdb1de5d1bbb76cffe6a25502e7e"
+      ]
+    },
+    "00091012": { "Value": ["study"] },
+    "00080061": { "Value": ["DOC"], "vr": "CS" },
+    "00201208": { "Value": [1], "vr": "IS" },
+    "00201206": { "Value": [1], "vr": "IS" }
+  },
+  {
+    "00100020": { "vr": "LO", "Value": ["123"] },
+    "00100010": { "vr": "PN", "Value": [{ "Alphabetic": "Horse" }] },
+    "00100030": { "vr": "DA" },
+    "00100040": { "vr": "CS", "Value": ["F"] },
+    "00120062": { "vr": "CS", "Value": ["YES"] },
+    "00120064": {
+      "vr": "SQ",
+      "Value": [
+        {
+          "00080100": { "vr": "SH", "Value": ["113100"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": ["Basic Application Confidentiality Profile"]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113106"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": [
+              "Retain Longitudinal Temporal Information Full Dates Option"
+            ]
+          }
+        }
+      ]
+    },
+    "00080050": { "vr": "SH", "Value": ["321"] },
+    "0020000D": {
+      "vr": "UI",
+      "Value": ["2.25.96975534054447904995905761963464388233"]
+    },
+    "00080020": { "vr": "DA", "Value": ["20200723"] },
+    "00080030": { "vr": "TM", "Value": ["092640.000"] },
+    "00200010": { "vr": "SH", "Value": ["113"] },
+    "00090010": { "Value": ["dedupped"], "vr": "CS" },
+    "00091011": {
+      "Value": [
+        "67778666ffe5fef9d27b0aed398544daad0fb272ab42572a1cba4404c3fae360"
+      ]
+    },
+    "00091012": { "Value": ["study"] },
+    "00080061": { "Value": ["OT"], "vr": "CS" },
+    "00201208": { "Value": [1], "vr": "IS" },
+    "00201206": { "Value": [1], "vr": "IS" }
+  },
+  {
+    "00100020": { "vr": "LO", "Value": ["Cardiac US"] },
+    "00100010": { "vr": "PN", "Value": [{ "Alphabetic": "Cardiac US" }] },
+    "00100030": { "vr": "DA", "Value": ["19700101"] },
+    "00120062": { "vr": "CS", "Value": ["YES"] },
+    "0020000D": {
+      "vr": "UI",
+      "Value": ["1.2.840.113663.1500.1.248223208.1.1.20110323.105903.687"]
+    },
+    "00090010": { "Value": ["dedupped"], "vr": "CS" },
+    "00091011": {
+      "Value": [
+        "108544c45b09eb574678e034696b41205089c7971553552ae18d689f6731f03a"
+      ]
+    },
+    "00091012": { "Value": ["study"] },
+    "00080061": { "Value": ["US"], "vr": "CS" },
+    "00201208": { "Value": [9], "vr": "IS" },
+    "00201206": { "Value": [1], "vr": "IS" }
+  },
+  {
+    "00100020": { "vr": "LO", "Value": ["92afb4624d113e39451e07fbfb0a0892"] },
+    "00100010": { "vr": "PN", "Value": [{ "Alphabetic": "FreeSurfer SEG" }] },
+    "00100030": { "vr": "DA", "Value": ["19991231"] },
+    "00100040": { "vr": "CS", "Value": ["M"] },
+    "00081030": { "vr": "LO", "Value": ["8e8950befb4a114c729ff30efd9297f3"] },
+    "00080050": { "vr": "SH" },
+    "0020000D": {
+      "vr": "UI",
+      "Value": ["1.3.12.2.1107.5.2.32.35162.30000015050317233592200000046"]
+    },
+    "00080020": { "vr": "DA", "Value": ["19991231"] },
+    "00080030": { "vr": "TM", "Value": ["121106.008000"] },
+    "00200010": { "vr": "SH", "Value": ["1"] },
+    "00090010": { "Value": ["dedupped"], "vr": "CS" },
+    "00091011": {
+      "Value": [
+        "3acf7d77db0f0680c858291a682ade830c2bc2098c6fc41d2316622296468b9a"
+      ]
+    },
+    "00091012": { "Value": ["study"] },
+    "00080061": { "Value": ["MR", "SEG"], "vr": "CS" },
+    "00201208": { "Value": [129], "vr": "IS" },
+    "00201206": { "Value": [2], "vr": "IS" }
+  },
+  {
+    "00100020": { "vr": "LO", "Value": ["LUNG1-008"] },
+    "00100010": { "vr": "PN", "Value": [{ "Alphabetic": "LUNG1-008" }] },
+    "00100030": { "vr": "DA" },
+    "00100040": { "vr": "CS", "Value": ["M"] },
+    "00120062": { "vr": "CS", "Value": ["YES"] },
+    "00080050": { "vr": "SH", "Value": ["2615788742648199"] },
+    "0020000D": {
+      "vr": "UI",
+      "Value": [
+        "1.3.6.1.4.1.32722.99.99.62087908186665265759322018723889952421"
+      ]
+    },
+    "00080020": { "vr": "DA", "Value": ["20140101"] },
+    "00080030": { "vr": "TM" },
+    "00200010": { "vr": "SH" },
+    "00090010": { "Value": ["dedupped"], "vr": "CS" },
+    "00091011": {
+      "Value": [
+        "7371f8ce915232e153322ff39f1c71276af7afef9ac5405866589b16a90c12fe"
+      ]
+    },
+    "00091012": { "Value": ["study"] },
+    "00080061": { "Value": ["CT", "RTSTRUCT"], "vr": "CS" },
+    "00201208": { "Value": [115], "vr": "IS" },
+    "00201206": { "Value": [2], "vr": "IS" }
+  },
+  {
+    "00100020": { "vr": "LO", "Value": ["multiframe MR"] },
+    "00100010": { "vr": "PN", "Value": [{ "Alphabetic": "multiframe MR" }] },
+    "00100030": { "vr": "DA" },
+    "00100040": { "vr": "CS" },
+    "00120062": { "vr": "CS", "Value": ["YES"] },
+    "00081030": { "vr": "LO", "Value": ["RNM CRANIO (ENCEFALO)"] },
+    "00080050": { "vr": "SH" },
+    "0020000D": {
+      "vr": "UI",
+      "Value": ["1.2.276.0.7230010.3.1.2.2723277605.10168.1676054414.178"]
+    },
+    "00080020": { "vr": "DA" },
+    "00080030": { "vr": "TM" },
+    "00200010": { "vr": "SH" },
+    "00090010": { "Value": ["dedupped"], "vr": "CS" },
+    "00091011": {
+      "Value": [
+        "7ae98ef184decd631b4ef6cbe978b2097a7690299d4290b3446a1f0f43b43a58"
+      ]
+    },
+    "00091012": { "Value": ["study"] },
+    "00080061": { "Value": ["MR"], "vr": "CS" },
+    "00201208": { "Value": [4], "vr": "IS" },
+    "00201206": { "Value": [4], "vr": "IS" }
+  },
+  {
+    "00100020": { "vr": "LO", "Value": ["0000002"] },
+    "00100010": { "vr": "PN", "Value": [{ "Alphabetic": "Neptune" }] },
+    "00100021": { "vr": "LO", "Value": ["001R74:20050625:205502036:195212"] },
+    "00100030": { "vr": "DA" },
+    "00100040": { "vr": "CS", "Value": ["F"] },
+    "00081030": { "vr": "LO", "Value": ["DFCI CT CHEST W CONTRAST 6023"] },
+    "00080050": { "vr": "SH", "Value": ["000041576"] },
+    "0020000D": {
+      "vr": "UI",
+      "Value": ["1.3.6.1.4.1.25403.345050719074.3824.20170125095438.5"]
+    },
+    "00080020": { "vr": "DA", "Value": ["20140522"] },
+    "00080030": { "vr": "TM", "Value": ["095411.000"] },
+    "00200010": { "vr": "SH" },
+    "00090010": { "Value": ["dedupped"], "vr": "CS" },
+    "00091011": {
+      "Value": [
+        "d16a2c20080ef6227dde2225d019e18be2a2b01428de7d28d7b8b301f46f79a7"
+      ]
+    },
+    "00091012": { "Value": ["study"] },
+    "00080061": { "Value": ["CT"], "vr": "CS" },
+    "00201208": { "Value": [381], "vr": "IS" },
+    "00201206": { "Value": [5], "vr": "IS" }
+  },
+  {
+    "00100020": { "vr": "LO", "Value": ["0000002"] },
+    "00100010": { "vr": "PN", "Value": [{ "Alphabetic": "Neptune" }] },
+    "00100021": { "vr": "LO", "Value": ["001R74:20050625:205502036:195212"] },
+    "00100030": { "vr": "DA" },
+    "00100040": { "vr": "CS", "Value": ["F"] },
+    "00081030": { "vr": "LO", "Value": ["DFCI CT CHEST W CONTRAST 6023"] },
+    "00080050": { "vr": "SH", "Value": ["000041571"] },
+    "0020000D": {
+      "vr": "UI",
+      "Value": ["1.3.6.1.4.1.25403.345050719074.3824.20170125095258.1"]
+    },
+    "00080020": { "vr": "DA", "Value": ["20140325"] },
+    "00080030": { "vr": "TM", "Value": ["152924.000"] },
+    "00200010": { "vr": "SH" },
+    "00090010": { "Value": ["dedupped"], "vr": "CS" },
+    "00091011": {
+      "Value": [
+        "dc6293859fdcb1ef39eb5a768ce690cfbde1e66b3e803a28dfc6ee3f87c7e24f"
+      ]
+    },
+    "00091012": { "Value": ["study"] },
+    "00080061": { "Value": ["CT"], "vr": "CS" },
+    "00201208": { "Value": [249], "vr": "IS" },
+    "00201206": { "Value": [5], "vr": "IS" }
+  },
+  {
+    "00100020": { "vr": "LO", "Value": ["LiverUS-06"] },
+    "00100010": { "vr": "PN", "Value": [{ "Alphabetic": "LiverUS-06" }] },
+    "00100030": { "vr": "DA" },
+    "00100040": { "vr": "CS", "Value": ["O"] },
+    "00120062": { "vr": "CS", "Value": ["YES"] },
+    "00120064": {
+      "vr": "SQ",
+      "Value": [
+        {
+          "00080100": { "vr": "SH", "Value": ["113100"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": ["Basic Application Confidentiality Profile"]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113101"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Clean Pixel Data Option"] }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113104"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": ["Clean Structured Content Option"]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113105"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Clean Descriptors Option"] }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113107"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": [
+              "Retain Longitudinal Temporal Information Modified Dates Option"
+            ]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113108"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": {
+            "vr": "LO",
+            "Value": ["Retain Patient Characteristics Option"]
+          }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113109"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Retain Device Identity Option"] }
+        },
+        {
+          "00080100": { "vr": "SH", "Value": ["113111"] },
+          "00080102": { "vr": "SH", "Value": ["DCM"] },
+          "00080104": { "vr": "LO", "Value": ["Retain Safe Private Option"] }
+        }
+      ]
+    },
+    "00080050": { "vr": "SH" },
+    "0020000D": {
+      "vr": "UI",
+      "Value": [
+        "1.3.6.1.4.1.14519.5.2.1.1188.2803.137585363493444318569098508293"
+      ]
+    },
+    "00080020": { "vr": "DA", "Value": ["20121001"] },
+    "00080030": { "vr": "TM", "Value": ["111008"] },
+    "00200010": { "vr": "SH" },
+    "00090010": { "Value": ["dedupped"], "vr": "CS" },
+    "00091011": {
+      "Value": [
+        "03e7fa04d974b17e107c8941c5110a4674dce198a26d7715411c3fd727ba6875"
+      ]
+    },
+    "00091012": { "Value": ["study"] },
+    "00080061": { "Value": ["US"], "vr": "CS" },
+    "00201208": { "Value": [20], "vr": "IS" },
+    "00201206": { "Value": [1], "vr": "IS" }
+  }
+]

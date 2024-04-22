@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jeffrey\\source\\repos\\PocMock\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3908C7-D950-4A62-84D0-1C8CE06432AB}|PocMock\\PocMock.csproj|c:\\users\\jeffrey\\source\\repos\\pocmock\\pocmock\\pocmock.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4C3908C7-D950-4A62-84D0-1C8CE06432AB}|PocMock\\PocMock.csproj|solutionrelative:pocmock\\pocmock.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3908C7-D950-4A62-84D0-1C8CE06432AB}|PocMock\\PocMock.csproj|c:\\users\\jeffrey\\source\\repos\\pocmock\\pocmock\\controllers\\ohifdicomweb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3908C7-D950-4A62-84D0-1C8CE06432AB}|PocMock\\PocMock.csproj|solutionrelative:pocmock\\controllers\\ohifdicomweb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3908C7-D950-4A62-84D0-1C8CE06432AB}|PocMock\\PocMock.csproj|c:\\users\\jeffrey\\source\\repos\\pocmock\\pocmock\\studymockresponse.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4C3908C7-D950-4A62-84D0-1C8CE06432AB}|PocMock\\PocMock.csproj|solutionrelative:pocmock\\studymockresponse.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3908C7-D950-4A62-84D0-1C8CE06432AB}|PocMock\\PocMock.csproj|c:\\users\\jeffrey\\source\\repos\\pocmock\\pocmock\\seriesmetadata1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4C3908C7-D950-4A62-84D0-1C8CE06432AB}|PocMock\\PocMock.csproj|solutionrelative:pocmock\\seriesmetadata1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3908C7-D950-4A62-84D0-1C8CE06432AB}|PocMock\\PocMock.csproj|c:\\users\\jeffrey\\source\\repos\\pocmock\\pocmock\\seriesmetadata2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4C3908C7-D950-4A62-84D0-1C8CE06432AB}|PocMock\\PocMock.csproj|solutionrelative:pocmock\\seriesmetadata2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3908C7-D950-4A62-84D0-1C8CE06432AB}|PocMock\\PocMock.csproj|c:\\users\\jeffrey\\source\\repos\\pocmock\\pocmock\\seriesmetadata3.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4C3908C7-D950-4A62-84D0-1C8CE06432AB}|PocMock\\PocMock.csproj|solutionrelative:pocmock\\seriesmetadata3.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3908C7-D950-4A62-84D0-1C8CE06432AB}|PocMock\\PocMock.csproj|c:\\users\\jeffrey\\source\\repos\\pocmock\\pocmock\\seriesmetadata4.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4C3908C7-D950-4A62-84D0-1C8CE06432AB}|PocMock\\PocMock.csproj|solutionrelative:pocmock\\seriesmetadata4.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3908C7-D950-4A62-84D0-1C8CE06432AB}|PocMock\\PocMock.csproj|c:\\users\\jeffrey\\source\\repos\\pocmock\\pocmock\\seriesmetadata5.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4C3908C7-D950-4A62-84D0-1C8CE06432AB}|PocMock\\PocMock.csproj|solutionrelative:pocmock\\seriesmetadata5.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3908C7-D950-4A62-84D0-1C8CE06432AB}|PocMock\\PocMock.csproj|c:\\users\\jeffrey\\source\\repos\\pocmock\\pocmock\\seriesmockresponse.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4C3908C7-D950-4A62-84D0-1C8CE06432AB}|PocMock\\PocMock.csproj|solutionrelative:pocmock\\seriesmockresponse.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3908C7-D950-4A62-84D0-1C8CE06432AB}|PocMock\\PocMock.csproj|c:\\users\\jeffrey\\source\\repos\\pocmock\\pocmock\\studiesmockresponse.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4C3908C7-D950-4A62-84D0-1C8CE06432AB}|PocMock\\PocMock.csproj|solutionrelative:pocmock\\studiesmockresponse.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "seriesMetadata5.txt",
+              "DocumentMoniker": "C:\\Users\\Jeffrey\\source\\repos\\PocMock\\PocMock\\seriesMetadata5.txt",
+              "RelativeDocumentMoniker": "PocMock\\seriesMetadata5.txt",
+              "ToolTip": "C:\\Users\\Jeffrey\\source\\repos\\PocMock\\PocMock\\seriesMetadata5.txt",
+              "RelativeToolTip": "PocMock\\seriesMetadata5.txt",
+              "ViewState": "AQIAALHMAAAAAAAAAAAgwO3MAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-21T19:24:13.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "seriesMetadata4.txt",
+              "DocumentMoniker": "C:\\Users\\Jeffrey\\source\\repos\\PocMock\\PocMock\\seriesMetadata4.txt",
+              "RelativeDocumentMoniker": "PocMock\\seriesMetadata4.txt",
+              "ToolTip": "C:\\Users\\Jeffrey\\source\\repos\\PocMock\\PocMock\\seriesMetadata4.txt",
+              "RelativeToolTip": "PocMock\\seriesMetadata4.txt",
+              "ViewState": "AQIAALMdAQAAAAAAAAAwwPEdAQABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-21T19:23:01.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "seriesMetadata3.txt",
+              "DocumentMoniker": "C:\\Users\\Jeffrey\\source\\repos\\PocMock\\PocMock\\seriesMetadata3.txt",
+              "RelativeDocumentMoniker": "PocMock\\seriesMetadata3.txt",
+              "ToolTip": "C:\\Users\\Jeffrey\\source\\repos\\PocMock\\PocMock\\seriesMetadata3.txt",
+              "RelativeToolTip": "PocMock\\seriesMetadata3.txt",
+              "ViewState": "AQIAALMdAQAAAAAAAAAwwPEdAQABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-21T19:22:17.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "seriesMetadata2.txt",
+              "DocumentMoniker": "C:\\Users\\Jeffrey\\source\\repos\\PocMock\\PocMock\\seriesMetadata2.txt",
+              "RelativeDocumentMoniker": "PocMock\\seriesMetadata2.txt",
+              "ToolTip": "C:\\Users\\Jeffrey\\source\\repos\\PocMock\\PocMock\\seriesMetadata2.txt",
+              "RelativeToolTip": "PocMock\\seriesMetadata2.txt",
+              "ViewState": "AQIAALMdAQAAAAAAAAAwwPEdAQABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-21T19:19:39.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "seriesMetadata1.txt",
+              "DocumentMoniker": "C:\\Users\\Jeffrey\\source\\repos\\PocMock\\PocMock\\seriesMetadata1.txt",
+              "RelativeDocumentMoniker": "PocMock\\seriesMetadata1.txt",
+              "ToolTip": "C:\\Users\\Jeffrey\\source\\repos\\PocMock\\PocMock\\seriesMetadata1.txt",
+              "RelativeToolTip": "PocMock\\seriesMetadata1.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-21T19:13:11.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "studiesMockResponse.txt",
+              "DocumentMoniker": "C:\\Users\\Jeffrey\\source\\repos\\PocMock\\PocMock\\studiesMockResponse.txt",
+              "RelativeDocumentMoniker": "PocMock\\studiesMockResponse.txt",
+              "ToolTip": "C:\\Users\\Jeffrey\\source\\repos\\PocMock\\PocMock\\studiesMockResponse.txt",
+              "RelativeToolTip": "PocMock\\studiesMockResponse.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-21T19:06:25.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "studyMockResponse.txt",
+              "DocumentMoniker": "C:\\Users\\Jeffrey\\source\\repos\\PocMock\\PocMock\\studyMockResponse.txt",
+              "RelativeDocumentMoniker": "PocMock\\studyMockResponse.txt",
+              "ToolTip": "C:\\Users\\Jeffrey\\source\\repos\\PocMock\\PocMock\\studyMockResponse.txt",
+              "RelativeToolTip": "PocMock\\studyMockResponse.txt",
+              "ViewState": "AQIAAL4FAAAAAAAAAAAgwNQFAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-21T19:04:15.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "seriesMockResponse.txt",
+              "DocumentMoniker": "C:\\Users\\Jeffrey\\source\\repos\\PocMock\\PocMock\\seriesMockResponse.txt",
+              "RelativeDocumentMoniker": "PocMock\\seriesMockResponse.txt",
+              "ToolTip": "C:\\Users\\Jeffrey\\source\\repos\\PocMock\\PocMock\\seriesMockResponse.txt",
+              "RelativeToolTip": "PocMock\\seriesMockResponse.txt",
+              "ViewState": "AQIAANoBAAAAAAAAAAAwwCcCAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-21T18:36:18.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PocMock",
+              "DocumentMoniker": "C:\\Users\\Jeffrey\\source\\repos\\PocMock\\PocMock\\PocMock.csproj",
+              "RelativeDocumentMoniker": "PocMock\\PocMock.csproj",
+              "ToolTip": "C:\\Users\\Jeffrey\\source\\repos\\PocMock\\PocMock\\PocMock.csproj",
+              "RelativeToolTip": "PocMock\\PocMock.csproj",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-21T17:53:35.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OHIFDicomWeb.cs",
+              "DocumentMoniker": "C:\\Users\\Jeffrey\\source\\repos\\PocMock\\PocMock\\Controllers\\OHIFDicomWeb.cs",
+              "RelativeDocumentMoniker": "PocMock\\Controllers\\OHIFDicomWeb.cs",
+              "ToolTip": "C:\\Users\\Jeffrey\\source\\repos\\PocMock\\PocMock\\Controllers\\OHIFDicomWeb.cs",
+              "RelativeToolTip": "PocMock\\Controllers\\OHIFDicomWeb.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAuwFoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T17:49:16.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
